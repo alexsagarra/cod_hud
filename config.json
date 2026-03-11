@@ -1,0 +1,15 @@
+{
+  "position": {
+    "x": 20,
+    "y": 20
+  },
+  "opacity": 0.88,
+  "update_interval_ms": 1500,
+  "colors": {
+    "accent": "#00FF41",
+    "background": "#111111",
+    "text": "#CCCCCC",
+    "warn": "#FFA500",
+    "danger": "#FF4444"
+  }
+}
